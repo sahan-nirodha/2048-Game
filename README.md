@@ -1,1 +1,1 @@
-        Screen shots of the my simple 2048 game
+        Screen shots of  my simple 2048 game
