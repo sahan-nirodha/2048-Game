@@ -1,4 +1,4 @@
-        Screen shots of  my simple 2048 game
+        Screen Shots of  my simple 2048 game
 
 Game Starting Stage
 ![Screenshot 2024-11-01 122411](https://github.com/user-attachments/assets/23810c9d-f726-4951-a42c-361f7bf6ea34)
