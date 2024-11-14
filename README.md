@@ -5,3 +5,5 @@ Game Starting Stage
 
 Game Playing Stage
 ![Screenshot 2024-11-01 122846](https://github.com/user-attachments/assets/6bea7299-ffd3-4414-b815-c9471af4a525)
+
+Using the keyboard arrow keys to move the numbers in the number box
